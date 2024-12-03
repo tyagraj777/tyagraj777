@@ -1,4 +1,3 @@
-# tk-github.github.io
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyagraj777&show_icons=true&theme=radical)
 
