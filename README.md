@@ -15,5 +15,5 @@ Hi, I'm TK, a passionate technology and open-source enthusiast.
 ## 📫 How to reach me
 - [Skpye]((https://join.skype.com/invite/YIQAOKw2hwoE))
 
-## ⚡ Fun fact
-I love sharing knowledge and contributing meaningfully to open-source!
+## ⚡Thought of the year ⚡
+Its FINE to be FAMEless .. BUT its INSANE to be AIMless !!!
