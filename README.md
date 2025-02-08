@@ -16,4 +16,4 @@ Hi, I'm TK, a passionate technology and open-source enthusiast.
 - [Skpye]((https://join.skype.com/invite/YIQAOKw2hwoE))
 
 ## ⚡Thought of the year ⚡
-Its FINE to be FAMEless .. BUT its INSANE to be AIMless !!!
+In LIFE, Its FINE to be FAMEless .. BUT its INSANE to be AIMless !!!
