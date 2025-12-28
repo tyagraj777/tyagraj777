@@ -8,7 +8,7 @@
 
 ![TK's GitHub stats2](https://github-readme-stats.vercel.app/api?username=tyagraj777)
 
-![Anurag's GitHub stats3](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 # Welcome to My GitHub Profile 👋
 
