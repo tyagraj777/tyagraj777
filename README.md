@@ -6,6 +6,8 @@
 
 ![TK's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyagraj777&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+![TK's GitHub stats2](https://github-readme-stats.vercel.app/api?username=tyagraj777)
+
 # Welcome to My GitHub Profile 👋
 
 Hi, I'm TK, a passionate technology and open-source enthusiast.
