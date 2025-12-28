@@ -1,8 +1,8 @@
 
 
-https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME
-https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME
-https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME
+https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyagraj777
+https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tyagraj777
+https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tyagraj777
 
 
 
