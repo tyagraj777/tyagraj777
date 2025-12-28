@@ -8,6 +8,8 @@
 
 ![TK's GitHub stats2](https://github-readme-stats.vercel.app/api?username=tyagraj777)
 
+![Anurag's GitHub stats3](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 # Welcome to My GitHub Profile 👋
 
 Hi, I'm TK, a passionate technology and open-source enthusiast.
