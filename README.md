@@ -4,11 +4,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyagraj777&layout=compact&theme=radical)
 
-![TK's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyagraj777&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![TK's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyagraj777&show_icons=true&theme=default)
 
-![TK's GitHub stats2](https://github-readme-stats.vercel.app/api?username=tyagraj777)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 # Welcome to My GitHub Profile 👋
 
