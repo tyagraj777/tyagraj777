@@ -1,10 +1,9 @@
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyagraj777&show_icons=true&theme=radical)
+https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME
+https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME
+https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyagraj777&layout=compact&theme=radical)
-
-![TK's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyagraj777&show_icons=true&theme=default)
 
 
 # Welcome to My GitHub Profile 👋
