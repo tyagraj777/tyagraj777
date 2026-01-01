@@ -17,4 +17,4 @@ Hi, I'm TK, a passionate technology and open-source enthusiast.
 - [Skpye]((https://join.skype.com/invite/YIQAOKw2hwoE))
 
 ## ⚡Thought of the year ⚡
-In LIFE, Its FINE to be FAMEless .. BUT its INSANE to be AIMless !!!
+“2026 is the year of convergence—where AI, automation, and human ingenuity unite to turn reactive support into predictive intelligence. Build systems that learn, adapt, and empower—not just solve problems.” !!!
